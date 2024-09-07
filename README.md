@@ -25,7 +25,7 @@ El sistema permite a los usuarios ingresar los datos necesarios para generar una
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/usuario/proyecto_cotizacion_ventanas.git
+   git clone https://github.com/Jcamilo777/Parcial-1.git
 
 2. Navega al directorio del proyecto:
 
